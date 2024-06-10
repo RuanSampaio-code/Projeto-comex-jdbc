@@ -31,3 +31,14 @@ CREATE TABLE clientes (
 ```
 
 ## Tabela de produto
+
+```sql
+CREATE TABLE produtos (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    descricao VARCHAR(255),
+    preco DOUBLE NOT NULL
+);
+```
+
+Essas são as tabelas utilizadas
