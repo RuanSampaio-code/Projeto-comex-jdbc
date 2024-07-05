@@ -1,5 +1,5 @@
 # Projeto-comex
-Projeto 01 - Boost Alura semana 01
+Projeto 01 - Boost Alura semana 01, Conexão com BD utilizando JDBC
 
 
 Tabelas no mysql:
